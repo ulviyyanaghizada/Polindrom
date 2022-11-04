@@ -1,0 +1,15 @@
+/Users/ulviyya/Desktop/Polindrom/Polindrom/Polindrom/bin/Debug/net6.0/Polindrom
+/Users/ulviyya/Desktop/Polindrom/Polindrom/Polindrom/bin/Debug/net6.0/Polindrom.deps.json
+/Users/ulviyya/Desktop/Polindrom/Polindrom/Polindrom/bin/Debug/net6.0/Polindrom.runtimeconfig.json
+/Users/ulviyya/Desktop/Polindrom/Polindrom/Polindrom/bin/Debug/net6.0/Polindrom.dll
+/Users/ulviyya/Desktop/Polindrom/Polindrom/Polindrom/bin/Debug/net6.0/Polindrom.pdb
+/Users/ulviyya/Desktop/Polindrom/Polindrom/Polindrom/obj/Debug/net6.0/Polindrom.csproj.AssemblyReference.cache
+/Users/ulviyya/Desktop/Polindrom/Polindrom/Polindrom/obj/Debug/net6.0/Polindrom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulviyya/Desktop/Polindrom/Polindrom/Polindrom/obj/Debug/net6.0/Polindrom.AssemblyInfoInputs.cache
+/Users/ulviyya/Desktop/Polindrom/Polindrom/Polindrom/obj/Debug/net6.0/Polindrom.AssemblyInfo.cs
+/Users/ulviyya/Desktop/Polindrom/Polindrom/Polindrom/obj/Debug/net6.0/Polindrom.csproj.CoreCompileInputs.cache
+/Users/ulviyya/Desktop/Polindrom/Polindrom/Polindrom/obj/Debug/net6.0/Polindrom.dll
+/Users/ulviyya/Desktop/Polindrom/Polindrom/Polindrom/obj/Debug/net6.0/refint/Polindrom.dll
+/Users/ulviyya/Desktop/Polindrom/Polindrom/Polindrom/obj/Debug/net6.0/Polindrom.pdb
+/Users/ulviyya/Desktop/Polindrom/Polindrom/Polindrom/obj/Debug/net6.0/Polindrom.genruntimeconfig.cache
+/Users/ulviyya/Desktop/Polindrom/Polindrom/Polindrom/obj/Debug/net6.0/ref/Polindrom.dll

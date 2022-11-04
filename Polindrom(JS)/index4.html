@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var numbers = 47874;
+        var numbers1;
+        var r;
+        var m = 0;
+        numbers1 = numbers;
+        while (numbers!=0)
+        {
+            r = numbers % 10;
+            m = m * 10 + r;
+            numbers = numbers/10|0;
+        }
+        if (m==numbers1)
+        {
+            console.log("polindrom");
+        }
+        else
+        {
+        console.log("polindrom deyil");
+        }
+
+    </script>
+</body>
+</html>
